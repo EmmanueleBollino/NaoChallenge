@@ -1,5 +1,5 @@
 # NAO Planning Challenge
-**Group:** You're a big boy, NAO
+**Group:** You're a big boy, NAO  
 **Students:**
  - Agostino Aiezzo, <agostino.aiezzo@studio.unibo.it>
  - Emmanuele Bollino, <emmanuele.bollino@studio.unibo.it>
