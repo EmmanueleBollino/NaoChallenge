@@ -34,7 +34,7 @@ Video demonstration of the dance is in the file "Video"
  - Copy the ip and the port of the simulated (or real) NAO
  - Launch the starting script
     ```sh
-    ./start.sh
+    ./start.sh <nao_ip> <nao_port>
     ```
  - Planning generation may take a while, just be patient
  - Look at NAO!
