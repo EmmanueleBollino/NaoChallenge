@@ -5,8 +5,8 @@
  - Emmanuele Bollino, <emmanuele.bollino@studio.unibo.it>
 
 ### Files
-Presentation of the project in in the file "Slides.pdf"  
-Video demonstration of the dance is in the file "Video"
+Presentation of the project in in the file "\_PRESENTATION/Slides.pdf"  
+Video demonstration of the dance is in the file "\_PRESENTATION/Video_choreography.mp4"
 
 ### Instructions
  - Use the NAO Virtual Machine
